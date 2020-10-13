@@ -1,0 +1,27 @@
+#shape {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: none;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}  
+#bold{
+    font-weight: bold;
+    font-size: 1.2em;
+    
+    background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+    
+    padding-bottom: 2px;
+    
+}
+#mainText, p{
+    text-align: center;
+    padding-top: 5px;
+    font-family: 'Chewy', cursive;
+}
+span{
+    color:white;
+}
